@@ -1,6 +1,4 @@
 import axios from 'axios';
-import iziToast from 'izitoast';
-import 'izitoast/dist/css/iziToast.min.css';
 
 const API_KEY = '50846905-dc608c04a9f845ecec04912aa';
 const URL = 'https://pixabay.com/api/';
